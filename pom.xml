@@ -29,5 +29,20 @@
 
   <name>Trudeau - Collections - Disjoint Set</name>
   <description>Disjoint Set data structure implementation.</description>
+  <url>https://github.com/trudeau/disjoint-set</url>
+
+  <scm>
+    <url>http://github.com/trudeau/disjoint-set</url>
+    <connection>scm:git:ssh://github.com/trudeau/disjoint-set.git</connection>
+    <developerConnection>scm:git:git+ssh://git@github.com/trudeau/disjoint-set.git</developerConnection>
+  </scm>
+  <issueManagement>
+    <system>GitHub Issue Management</system>
+    <url>https://github.com/trudeau/disjoint-set/issues</url>
+  </issueManagement>
+  <ciManagement>
+    <system>Trevis CI</system>
+    <url>https://travis-ci.org/trudeau/disjoint-set/</url>
+  </ciManagement>
 
 </project>
